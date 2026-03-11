@@ -2,7 +2,7 @@ function Home({ title, subtitle, description }) {
   return (
     <div className="min-h-screen flex items-center justify-center bg-gray-100">
 
-      <div className="bg-white shadow-lg rounded-2xl p-8 max-w-md text-center">
+      <div className="bg-black shadow-lg rounded-2xl p-8 max-w-md text-center">
 
         <h1 className="text-4xl font-bold text-gray-800 mb-2">
           {title}
